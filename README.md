@@ -9,7 +9,7 @@ React Boilerplate with [Vite](https://vitejs.dev/) and [TypeScript](https://www.
 First clone this repository.
 
 ```
-git clone https://github.com/sakilk130/react-vite-ts-boilerplate.git
+git clone https://github.com/AnwarHossainSR/boilerplate-react-vite-ts.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`yarn`](https://yarnpkg.com/) installed in your system.
